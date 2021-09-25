@@ -136,8 +136,8 @@
     transition: height 200ms 0ms, opacity 600ms 0ms; */
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
-    -webkit-animation-duration: 50ms;
-    animation-duration: 50ms;
+    -webkit-animation-duration: 300ms;
+    animation-duration: 300ms;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
     }
